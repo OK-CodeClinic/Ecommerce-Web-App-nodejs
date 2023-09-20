@@ -1,7 +1,7 @@
-# Kardozo Phones - Ecommerce Web App
+# Kardozo Laptops - Ecommerce Web App
 
 ## Description:
-This project is a full-stack web application built with JavaScript, Node.js, and MySQL, designed to provide an online shopping experience for mobile phones and accessories.
+This project is a full-stack web application built with JavaScript, Node.js, and MySQL, designed to provide an online shopping experience for Laptops and accessories.
 
 ## Key Features
 - Browse and search for the latest mobile phones and accessories.
@@ -14,7 +14,7 @@ This project is a full-stack web application built with JavaScript, Node.js, and
 - Frontend: JavaScript, HTML, CSS
 - Backend: Node.js, Express.js
 - Database: MySQL
-- Authentication: Passport.js
+- Payment System: Paypal payment API
 - Deployment: ??????
 
 ## Liscence:
