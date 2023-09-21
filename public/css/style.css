@@ -1569,7 +1569,7 @@ input[type="radio"] .styled:checked+label::after {
 position: absolute;
 margin-bottom: -111px;
 z-index: 999;
-background: #0015ff;
+background: #3368ee;
 width: 100%;
 position: relative;}
 .location_icon_bottum::before {
@@ -1637,7 +1637,7 @@ display: inline-block;
 font-weight: 500;
 font-size: 17px;
 line-height: 30px;
-color: rgb(43, 0, 255);
+color: rgb(29, 63, 197);
 text-align: center;
 border-radius: 30px;
 }
@@ -3470,7 +3470,7 @@ input[type="radio"] .styled:checked+label::after {
 position: absolute;
 margin-bottom: -111px;
 z-index: 999;
-background: #0015ff;
+background: #3368ee;
 width: 100%;
 position: relative;}
 .location_icon_bottum::before {
@@ -3538,7 +3538,7 @@ display: inline-block;
 font-weight: 500;
 font-size: 17px;
 line-height: 30px;
-color: rgb(43, 0, 255);
+color: rgba(37, 75, 210, 0.935);
 text-align: center;
 border-radius: 30px;
 }
@@ -3677,7 +3677,7 @@ display: block
 }
 
 .clients_red {
-     background: #1e00ff;
+     background: #3368ee;
      padding-top: 90px;
      padding-bottom:110px;
 } 
@@ -3769,7 +3769,7 @@ border-radius: 50px;
      padding: 17px 0px 0px 0px;
 }
 .red {
-     color: hwb(247 0% 0% / 0.937);
+     color: hwb(214 8% 24% / 0.963);
 }
 
 .brand-bg .brand_box span {
@@ -3789,7 +3789,7 @@ max-width: 212px;
 margin: 0 auto;
 margin-top: 0px;
 display: block;
-background: #000;
+background: #3368ee;
 color: #fff !important;
 padding: 12px 0px;
 width: 100%;
@@ -3800,7 +3800,7 @@ margin-top: 40px
 }
 
 .read-more:hover {
-     background: #0015ff;
+     background: #011137;
 }
 
 /** end brand **/
@@ -3829,7 +3829,7 @@ margin-top: 40px
 } 
 
 .form-control {
-     border: #0015ff solid 2px;
+     border: #3368ee solid 2px;
      border-radius: inherit;
      margin-bottom: 30px;
      padding: 13px 20px;
@@ -3837,12 +3837,12 @@ margin-top: 40px
 }
 .form-control:focus {
      box-shadow: inherit;
-     border: #0015ff solid 2px !important;
+     border: #3368ee solid 2px !important;
 }
 
 .textarea {
      font-family: poppins;
-     border: #0015ff solid 2px;
+     border: #3368ee solid 2px;
      margin-bottom: 30px;
      padding: 13px 20px;
      width: 100%;
@@ -3854,7 +3854,7 @@ margin-top: 40px
     max-width: 212px;
     margin: 0 auto;
     display: block;
-    background: #000;
+    background: #3368ee;
     color: #fff;
     padding: 12px 0px;
     width: 100%;
@@ -3862,7 +3862,7 @@ margin-top: 40px
 }
 
 .send:hover {
-     background: #0015ff;
+     background: #020637;
 }
 
 
@@ -3952,7 +3952,7 @@ font-size: 18px;
 
 ul.location_icon li a:hover {
      background: #0015ff;
-border: solid #0015ff 1px;        
+border: solid #3368ee 1px;        
 color: #fff;
 }
 
@@ -3966,17 +3966,17 @@ ul.location_icon span {
      margin-top: 50px;
 }
 .copyright p {
-     color: #000;
+     color: #3368ee;
      font-size: 16px;
      text-align: center;
      text-align: center;
      margin: 0 auto;
 }
 .copyright a {
-     color: #000;
+     color: #3368ee;
 }
 .copyright a:hover {
-     color: #0015ff;
+     color: #3368ee;
 }
 .btn-primary.focus,
 .btn-primary:focus {
@@ -4025,7 +4025,7 @@ ul.location_icon span {
 #myCarousel .carousel-control-next:hover,
 #myCarousel .carousel-control-prev:focus,
 #myCarousel .carousel-control-next:focus {
-     background: #0015ff ;
+     background: #3368ee ;
      color: #fff;
 }
 
@@ -4086,7 +4086,7 @@ ul.location_icon span {
 } 
 
 .form-control {
-     border: #0015ff solid 2px;
+     border: #3368ee solid 2px;
      border-radius: inherit;
      margin-bottom: 30px;
      padding: 13px 20px;
@@ -4094,12 +4094,12 @@ ul.location_icon span {
 }
 .form-control:focus {
      box-shadow: inherit;
-     border: #0015ff solid 2px !important;
+     border: #3368ee solid 2px !important;
 }
 
 .textarea {
      font-family: poppins;
-     border: #0015ff solid 2px;
+     border: #3368ee solid 2px;
      margin-bottom: 30px;
      padding: 13px 20px;
      width: 100%;
@@ -4111,7 +4111,7 @@ ul.location_icon span {
     max-width: 212px;
     margin: 0 auto;
     display: block;
-    background: #000;
+    background: #3368ee;
     color: #fff;
     padding: 12px 0px;
     width: 100%;
@@ -4119,7 +4119,7 @@ ul.location_icon span {
 }
 
 .send:hover {
-     background: #0015ff;
+     background: #021441;
 }
 
 
@@ -4173,7 +4173,7 @@ ul.link li a {
      
 }
 ul.link li a:hover {
-     color: #0015ff;
+     color: #3368ee;
 }
 
 ul.location_icon {
@@ -4208,8 +4208,8 @@ font-size: 18px;
 } 
 
 ul.location_icon li a:hover {
-     background: #0015ff;
-border: solid #0015ff 1px;        
+     background: #3368ee;
+border: solid #3368ee 1px;        
 color: #fff;
 }
 
@@ -4282,7 +4282,7 @@ ul.location_icon span {
 #myCarousel .carousel-control-next:hover,
 #myCarousel .carousel-control-prev:focus,
 #myCarousel .carousel-control-next:focus {
-     background: #285de3 ;
+     background: #3368ee ;
      color: #fff;
 }
 

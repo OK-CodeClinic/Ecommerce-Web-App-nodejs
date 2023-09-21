@@ -1,4 +1,4 @@
-# Kardozo Laptops - Ecommerce Web App
+# Kardozo Laptops - Ecommerce Web Application
 
 ## Description:
 This project is a full-stack web application built with JavaScript, Node.js, and MySQL, designed to provide an online shopping experience for Laptops and accessories.
