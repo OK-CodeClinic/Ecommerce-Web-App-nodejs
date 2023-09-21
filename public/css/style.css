@@ -291,13 +291,13 @@ button {
 }
 
 .main_bt {
-     background: #ee580f;
+     background: #1c087b;
      color: #fff;
      padding: 15px 60px 15px 60px;
      float: left;
      font-size: 15px;
      font-weight: 400;
-     border: solid #ee580f 2px;
+     border: solid #1c087b 2px;
      border-radius: 30px;
      margin: 15px 0px 60px 0px;
 }
@@ -1525,7 +1525,7 @@ a.slide_banner:hover::before {
      left: -10px;
      top: 4px;
      z-index: -1;
-     background: #e12d4f;
+     background: #050b78;
      -webkit-transform: rotate(45deg);
      transform: rotate(45deg);
 }
@@ -1537,7 +1537,7 @@ a.slide_banner:hover::before {
      right: -10px;
      top: 4px;
      z-index: -1;
-     background: #e12d4f;
+     background: #3407a5;
      -webkit-transform: rotate(45deg);
      transform: rotate(45deg);
 }

@@ -5,7 +5,7 @@ a.meanmenu-reveal {
 }
 
 .mean-container .mean-bar {
-     background: #f00;
+     background: rgb(0, 76, 255);
      float: left;
      min-height: 40px;
      padding: 5px 0;
@@ -175,5 +175,5 @@ a.meanmenu-reveal {
 }
 
 .mean-container .mean-nav ul li a:hover {
-     color: #ff0000;
+     color: #0055ff;
 }
